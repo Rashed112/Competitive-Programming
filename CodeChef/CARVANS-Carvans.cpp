@@ -29,6 +29,6 @@ int main()
 				}
 			}
 		}
-		cout<<cnt+1<<endl;
+	        cout<<cnt+1<<endl;
 	}
 }
