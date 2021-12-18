@@ -1,7 +1,8 @@
 /*
 Hint1: input case: speed of 5 cars: 4 5 6 7 8
 
-Hint2: if speeds of two cars are exactly same then, they won't collide. That means, if 2nd car's speed is greater than 1st car's, then 2nd car has to slow down to the same speed of the cars ahead of its. 
+Hint2: if speeds of two cars are exactly same then, they won't collide. That means, if 2nd car's speed is greater than 1st car's, 
+       then 2nd car has to slow down to the same speed of the cars ahead of its. 
 
 */
 
