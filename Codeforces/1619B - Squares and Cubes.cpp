@@ -1,8 +1,10 @@
 /*
 Hint1: we can square and cube every int until a reduced limit 
 
-Hint2: then we can make an unique array to keep that squared and cubic numbers, so that we can avoid such numbers which can be sqrt and cbrt at a time (like 64)
+Hint2: then we can make an unique array to keep that squared and cubic numbers,
+       so that we can avoid such numbers which can be sqrt and cbrt at a time (like 64)
 */
+
 
 
 #include<bits/stdc++.h>
