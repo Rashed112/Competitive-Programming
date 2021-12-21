@@ -4,7 +4,6 @@ Hint1: think about the length of the string
 Hint2: in a square string, there should be only one substring..
 */
 
-
 #include<bits/stdc++.h>
 using namespace std;
 
