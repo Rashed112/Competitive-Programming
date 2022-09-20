@@ -1,5 +1,7 @@
 /*
 Hint: we don't have to care about the number after k index, so we have to store the max values in  i%k indexes
+
+Hint: if code don't run, check if you declare the vector size or not
 */
 
 
