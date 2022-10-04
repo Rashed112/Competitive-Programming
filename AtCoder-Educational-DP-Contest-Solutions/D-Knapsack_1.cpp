@@ -4,7 +4,7 @@ using namespace std;
 int wt[105], val[105];
 ll dp[105][100005]; //two arguments of recursive func are changing, so 2D dp
 
-ll func(int ind, int wt_left)
+ll func(int ind, int wt_left) //if we're at ind indexed item and there is wt_left weight left in bag, what'll be the maximum value we get
 {
     if(wt_left == 0) return 0;
     if(ind<0) return 0;
