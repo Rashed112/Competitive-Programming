@@ -1,5 +1,6 @@
 /*
-problems understanding: given array is the k-th permutation of given numbers and we have to find the previous permutation of those number according to lexicographical order
+problem statement understanding: given array is the k-th permutation of given numbers and we have to find the previous permutation of those number 
+    according to lexicographical order
 */
 
 #include <bits/stdc++.h>
