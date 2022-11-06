@@ -14,7 +14,7 @@ int main() {
         cin >> p[i];
     }
     prev_permutation(p.begin(), p.end());/*this function stores the previous permutation according to lexicographical order and our problem also wanted that
-                                          and next_permuatation function stores the next permutation according to lexicographical order*/
+                                          and next_permutation function stores the next permutation according to lexicographical order*/
     for (int i = 0; i < n; ++i) {
         cout << p[i] << " ";
     }
