@@ -1,7 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-
 class Solution{
   public:
     int dp[1005];
@@ -24,7 +23,6 @@ class Solution{
         return func(n, prices);
     }
 };
-
 
 int main() {
     int t;
