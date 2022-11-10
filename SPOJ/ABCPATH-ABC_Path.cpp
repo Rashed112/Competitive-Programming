@@ -54,9 +54,7 @@ int main()
         }
 
         cout<<"Case "<<t<<": "<<longestIncreasingPath(matrix)<<endl;
-    }
-
-    
+    }  
 }
 
 //graph+dp
