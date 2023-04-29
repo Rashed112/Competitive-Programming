@@ -1,3 +1,6 @@
+//using prefix sum to identify where is x>=y>=z by adding 1 in the z position
+//then we can calculate how many we have to exclude to make it almost-increasing, by pre[r]-pre[l+1]
+
 #include<bits/stdc++.h>
 using namespace std;
 #define ll long long int
